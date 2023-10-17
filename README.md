@@ -1,5 +1,3 @@
-Certainly, here's an enhanced version of the README file with a more professional tone and additional details:
-
 ---
 
 # Axiom News App
